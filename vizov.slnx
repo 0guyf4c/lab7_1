@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ClassLibrary1/ClassLibrary1.csproj" Id="23420ad5-25ac-48c0-bf39-bed40d51622f" />
+  <Project Path="lab6_1/lab6_2.csproj" Id="26dc0401-8000-49ee-b24e-2c12034f40e3" />
+  <Project Path="lab7_1/lab7_1.csproj" Id="b68255f9-94b9-42de-8803-6d833a181a74" />
+  <Project Path="structures/structures.csproj" Id="ee843c11-41f0-4e64-b7b9-ff0df8aad64a" />
+  <Project Path="vizov/vizov.csproj" />
+</Solution>
